@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: |cFFFFFFFFKiwi Quick Pick|r|cFF00FF00 v1.0.0|r|cFF000088 Release|r
+## Version: 1.0.0
+## Author: PoliteKiwi
+## Notes: Hotkeys a button to immediately pick up a certain item quantity
+## SavedVariablesPerCharacter: KiwiQuickPick_Vars
+## Dependencies:
+KiwiQuickPick.lua
