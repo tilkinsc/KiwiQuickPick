@@ -1,4 +1,4 @@
-## Interface: 11302
+## Interface: 90100
 ## Title: |cFFFFFFFFKiwi Quick Pick|r|cFF00FF00 v1.0.0|r|cFF000088 Release|r
 ## Version: 1.0.0
 ## Author: PoliteKiwi
